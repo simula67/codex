@@ -1,3 +1,3 @@
-# codex
+# The Codex
 
-Knowledge organized in a hierarchichal manner
+This project aims to help the consumer acquire all the knowledge that is usually not taught in school.
