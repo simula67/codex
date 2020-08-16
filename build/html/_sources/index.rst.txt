@@ -6,7 +6,7 @@
 Welcome to The Codex!
 =================================
 
-This project aims to help the consumer acquire all the knowledge that is usually not taught in school.
+This project aims to help the consumer acquire a good chunk of the knowledge that is important but usually not taught in school.
 
 Organization
 ------------
@@ -18,7 +18,12 @@ Pre-requisites
 
 You need to have a basic understanding of mathematics, language etc to follow this course. You should ideally have acquired these skills during your schooling. If you have a secondary school diploma, you should be able to take this course without issues.
 
-Let's go.
+Disclaimer
+----------
+All warranties are disclaimed. Nothing in this document should be considered legal other type of advice. All heresies are unconditionally and automatically disclaimed.
+
+
+Now, let's go.
 
 .. toctree::
    :maxdepth: 2
