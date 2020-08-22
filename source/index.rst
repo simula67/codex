@@ -6,12 +6,12 @@
 Welcome to The Codex!
 =================================
 
-This project aims to help the consumer acquire a good chunk of the knowledge that is important but usually not taught in school.
+This project aims to help the consumer acquire a good chunk of the knowledge that is important but not usually taught in school.
 
 Organization
 ------------
 
-The material is arranged in a course like fashion. At any given point, you may find a fork in the road. You can take any path and ignore the remaining paths without affecting your learning process. However, before you go through `Topic A`, you need to go through all the topics that was presented before `Topic A`. This is because the material may build on previously introduced subjects.
+The material is arranged in a course like fashion. At any given point, when you find a fork in the road. You can take any path and ignore the remaining paths without affecting your learning process. However, before you go through `Topic A`, you need to go through all the topics that were presented before `Topic A`. This is because the material may build on previously introduced subjects.
 
 Pre-requisites
 --------------
@@ -20,15 +20,16 @@ You need to have a basic understanding of mathematics, language etc to follow th
 
 Disclaimer
 ----------
-All warranties are disclaimed. Nothing in this document should be considered legal other type of advice. All heresies are unconditionally and automatically disclaimed.
+All warranties are disclaimed. Nothing in this document should be considered legal advice. All heresies are unconditionally and automatically disclaimed.
 
 
-Now, let's go.
+Let's go
+--------
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   :maxdepth: 3
 
    roman-catholicism
+   frames
 
 

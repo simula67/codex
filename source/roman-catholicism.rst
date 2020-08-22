@@ -1,35 +1,15 @@
 Roman Catholicism
 ==================
 
-Let's begin by going through the basic principles of the Roman Catholic religion. 
+I am going to frame this entire course through the Roman Catholic (or simply "Catholic") religion. We will learn about :doc:`frames <frames>` a little later. Catholic frame appears to be the best frame to view the world through since it has certain properties that leads to prosperity.
 
+Let's begin by going through the basic structure of the Catholic religion.
 
-Reasons for being Catholic
---------------------------
-
-How does one become Catholic? There are multiple reasons for someone to be Catholic.
-
-Tradition
-~~~~~~~~~
-
-Some people are Catholic because their parents are Catholic and therefore they choose to be Catholics. People they love or people who love them being Catholic is a powerful incentive for someone to be Catholic. 
-
-Beauty
-~~~~~~
-
-Some people are Catholic because they are attracted to the beauty in the Catholic church, and there is no a lot of beauty in the Catholic Church. 
-
-Charity
-~~~~~~~
-
-Some people are Catholic because they see all the wonderful charitable works that the Catholic Catholic Church produces. Some people, in their kindness and charity join the Catholic church so that they can carry that forward. 
-
-It must be noted that any one mechanism to be Catholic may not be inferior or superior to another. However here we will concern ourselves only with the rational and reasonable mechanisms through which God draws us towards his faith. 
 
 The structure of the Catholic religion
 --------------------------------------
 
-There are four steps to being Catholic. These steps must be climbed one after the other in a sequential manner. That is, if you cannot climb Step 1, you should not go to Step 2. Trying to raise an objection at Step 2 without first climbing Step 1 is folly and it should not be attempted. These four steps can be understood in terms of questions. Answering "Yes" at each step allows you to climb to the next step. Here are the four steps: 
+There are 4 steps to being Catholic. These steps must be climbed one after the other in a sequential manner. These four steps can be understood in terms of questions. Answering "Yes" at each step allows you to climb to the next step. Here are the four steps: 
 
 1. Does God exist? 
 
@@ -45,7 +25,7 @@ You will notice that each step above represents a transition from one form of be
 
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
 
    roman-catholicism/theism.rst
    roman-catholicism/christianity.rst

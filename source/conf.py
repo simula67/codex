@@ -20,7 +20,7 @@
 # -- Project information -----------------------------------------------------
 
 project = u'Codex'
-copyright = u'2019, Joji Antony'
+copyright = u'2019 - 2020, Joji Antony'
 author = u'Joji Antony'
 
 # The short X.Y version
@@ -78,7 +78,8 @@ pygments_style = None
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 #
-html_theme = 'default'
+html_theme = 'nature'
+html_title = 'Codex'
 
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the
@@ -132,7 +133,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'Codex.tex', u'Codex Documentation',
+    (master_doc, 'Codex.tex', u'Codex',
      u'Joji Antony', 'manual'),
 ]
 
@@ -142,7 +143,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'codex', u'Codex Documentation',
+    (master_doc, 'codex', u'Codex',
      [author], 1)
 ]
 
@@ -153,7 +154,7 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'Codex', u'Codex Documentation',
+    (master_doc, 'Codex', u'Codex',
      author, 'Codex', 'One line description of project.',
      'Miscellaneous'),
 ]

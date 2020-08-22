@@ -9,4 +9,11 @@ We can ascertain this fact by examining history. Most historians agree that on t
 
 Liars make poor martyrs. Early Christians were thrown to their deaths and therefore it is unlikely that they were lying. It is difficult to reconcile the fact that many people rich, poor, powerful, powerless etc threw all of it away and went to their deaths claiming that Jesus Christ came back from the dead if they didn't really think this.
 
-Again, it may be necessary to take a leap of faith. However, once you do, you can see that everything he talked about with respect to God is congruent with what we already know about God based on reason. Once you accept the divinity of Christ the concept of Trinity follows as he himself taught it and you become a Christian.
+Again, it may be necessary to take a leap of faith here also. However, once you do, you can see that everything Jesus talked about with respect to God is congruent with what we already know about God based on reason. Once you accept the divinity of Christ the concept of Trinity follows as he himself taught it and you become a Christian.
+
+More information
+----------------
+
+* `David Wood on Did Jesus Exist <https://www.youtube.com/watch?v=Rg7Ge7y9-JI>`_
+* `David Wood vs John Loftus <https://www.youtube.com/watch?v=owURacUBpX0>`_
+
